@@ -6,7 +6,7 @@
         android:id="@id/popular"
         android:title="Popular"/>
     <item
-        android:icon="@drawable/ic_popular"
+        android:icon="@drawable/ic_upcoming"
         android:id="@id/upcoming"
         android:title="Upcoming"/>
 </menu>
